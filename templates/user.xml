@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="getter" value="/**&#10; * Gets $FIELD$&#10; *&#10; * return value of $FIELD$&#10; */&#10;public $RET$ get$FIELD$()&#10;{&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RET" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
