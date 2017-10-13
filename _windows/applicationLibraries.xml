@@ -1,0 +1,22 @@
+<application>
+  <component name="libraryTable">
+    <library name="bcpkix-jdk15on-156.jar">
+      <CLASSES>
+        <root url="jar://E:/workspaceIdea/trunk/amos_shared/stdclasses/bcpkix-jdk15on-156.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/javadoc/bcpkix-jdk15on-156/bcpkix-jdk15on-156/src.zip" />
+      </SOURCES>
+    </library>
+    <library name="bcprov-jdk15on-156.jar">
+      <CLASSES>
+        <root url="jar://E:/workspaceIdea/trunk/amos_shared/stdclasses/bcprov-jdk15on-156.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/javadoc/bcprov-jdk15on-156/bcprov-jdk15on-156/src.zip" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
