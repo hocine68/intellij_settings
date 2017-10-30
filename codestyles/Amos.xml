@@ -25,6 +25,8 @@
       <emptyLine />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="150" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
   </JavaCodeStyleSettings>
