@@ -10,4 +10,7 @@
   </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 6" />
+  </action>
 </keymap>
