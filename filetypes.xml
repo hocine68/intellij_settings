@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="exe" type="Native" />
       <mapping ext="jjt" type="PLAIN_TEXT" />
+      <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="xconf" type="XML" />
     </extensionMap>
