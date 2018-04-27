@@ -1,5 +1,4 @@
 <code_scheme name="Amos" version="173">
-  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="REPLACE_INSTANCEOF" value="true" />
   <option name="REPLACE_CAST" value="true" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -55,9 +54,6 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -86,6 +82,7 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
