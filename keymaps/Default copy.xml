@@ -3,6 +3,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="ctrl s" />
