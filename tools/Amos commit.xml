@@ -1,0 +1,37 @@
+<toolSet name="Amos commit">
+  <tool name="Commit from 12.10 up" description="Commit in all versions from 12.10" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
+      <option name="PARAMETERS" value="/command:commit  /path:&quot;Amos12.10/amos_shared*Amos12.10/amos_server*Amos12.10/amos_client*trunk/amos_shared*trunk/amos_server*trunk/amos_client&quot;" />
+      <option name="WORKING_DIRECTORY" value="E:/workspaceIdea" />
+    </exec>
+  </tool>
+  <tool name="Commit from 12.00 up" description="Commit in all versions from 12.00" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
+      <option name="PARAMETERS" value="/command:commit  /path:&quot;Amos12.00/amos_shared*Amos12.00/amos_server*Amos12.00/amos_client*Amos12.10/amos_shared*Amos12.10/amos_server*Amos12.10/amos_client*trunk/amos_shared*trunk/amos_server*trunk/amos_client&quot;" />
+      <option name="WORKING_DIRECTORY" value="E:/workspaceIdea" />
+    </exec>
+  </tool>
+  <tool name="Commit from 11.30 up" description="Commit in all versions from 11.30" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
+      <option name="PARAMETERS" value="/command:commit  /path:&quot;Amos11.30/amos_shared*Amos11.30/amos_server*Amos11.30/amos_client*Amos11.40/amos_shared*Amos11.40/amos_server*Amos11.40/amos_client*Amos12.00/amos_shared*Amos12.00/amos_server*Amos12.00/amos_client*Amos12.10/amos_shared*Amos12.10/amos_server*Amos12.10/amos_client*trunk/amos_shared*trunk/amos_server*trunk/amos_client&quot;" />
+      <option name="WORKING_DIRECTORY" value="E:/workspaceIdea" />
+    </exec>
+  </tool>
+  <tool name="Commit from 11.20 up" description="Commit in all versions from 11.20" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
+      <option name="PARAMETERS" value="/command:commit  /path:&quot;Amos11.20/amos_shared*Amos11.20/amos_server*Amos11.20/amos_client*Amos11.30/amos_shared*Amos11.30/amos_server*Amos11.30/amos_client*Amos11.40/amos_shared*Amos11.40/amos_server*Amos11.40/amos_client*Amos12.00/amos_shared*Amos12.00/amos_server*Amos12.00/amos_client*Amos12.10/amos_shared*Amos12.10/amos_server*Amos12.10/amos_client*trunk/amos_shared*trunk/amos_server*trunk/amos_client&quot;" />
+      <option name="WORKING_DIRECTORY" value="E:/workspaceIdea" />
+    </exec>
+  </tool>
+  <tool name="Commit from 11.40 up" description="Commit in all versions from 11.40" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
+      <option name="PARAMETERS" value="/command:commit  /path:&quot;Amos11.40/amos_shared*Amos11.40/amos_server*Amos11.40/amos_client*Amos12.00/amos_shared*Amos12.00/amos_server*Amos12.00/amos_client*Amos12.10/amos_shared*Amos12.10/amos_server*Amos12.10/amos_client*trunk/amos_shared*trunk/amos_server*trunk/amos_client&quot;" />
+      <option name="WORKING_DIRECTORY" value="E:/workspaceIdea" />
+    </exec>
+  </tool>
+</toolSet>
