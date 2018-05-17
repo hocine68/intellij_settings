@@ -2,7 +2,7 @@
   <tool name="Commit from 12.10 up" description="Commit in all versions from 12.10" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
-      <option name="PARAMETERS" value="/command:commit  /path:&quot;Amos12.10/amos_shared*Amos12.10/amos_server*Amos12.10/amos_client*trunk/amos_shared*trunk/amos_server*trunk/amos_client&quot;" />
+      <option name="PARAMETERS" value="/command:commit  /path:&quot;Amos12.10/amos_shared*Amos12.10/amos_server*Amos12.10/amos_client*Amos12.10/amos_test_junit*trunk/amos_shared*trunk/amos_server*trunk/amos_client*trunk/amos_test_junit&quot;" />
       <option name="WORKING_DIRECTORY" value="E:/workspaceIdea" />
     </exec>
   </tool>
