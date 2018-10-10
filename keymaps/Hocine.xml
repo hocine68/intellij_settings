@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Diff.PrevChange" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="ctrl dollar" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
