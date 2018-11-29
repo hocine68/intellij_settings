@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="206'878 Test 12.20:S1000D revision tab search doesn`t work when an OEM reference is not selected&#9;&#9;&#9;&#9; " />
+    <option name="defaultScopeName" value="206'878 Test 12.20:S1000D revision tab search doesn`t work when an OEM reference is not selected&#9;&#9;&#9;&#9; " />
+    <option name="SEARCH_SCOPE" value="206'878 Test 12.20:S1000D revision tab search doesn`t work when an OEM reference is not selected&#9;&#9;&#9;&#9; " />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
