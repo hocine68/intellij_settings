@@ -2,4 +2,8 @@
   <option name="myName" value="Default" />
   <inspection_tool class="JavadocReference" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="MissingAuthor" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MissingOverrideAnnotation" enabled="false" level="INFORMATION" enabled_by_default="false">
+    <option name="ignoreObjectMethods" value="false" />
+    <option name="ignoreAnonymousClassMethods" value="false" />
+  </inspection_tool>
 </profile>
