@@ -6,6 +6,7 @@
       <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="xjb" type="PLAIN_TEXT" />
       <mapping ext="fo" type="XHTML" />
       <mapping ext="xconf" type="XML" />
     </extensionMap>
