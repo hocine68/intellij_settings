@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="202'770 Add extra new fields in TRANSFER PUBLICATION" />
-    <option name="defaultScopeName" value="202'770 Add extra new fields in TRANSFER PUBLICATION" />
-    <option name="SEARCH_SCOPE" value="202'770 Add extra new fields in TRANSFER PUBLICATION" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
