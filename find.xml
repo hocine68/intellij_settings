@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="213'452 Upload Taskcards from Boeing Toolbox into the OEM library." />
+    <option name="defaultScopeName" value="213'452 Upload Taskcards from Boeing Toolbox into the OEM library." />
+    <option name="SEARCH_SCOPE" value="213'452 Upload Taskcards from Boeing Toolbox into the OEM library." />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
