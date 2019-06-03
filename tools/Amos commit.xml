@@ -2,7 +2,7 @@
   <tool name="Commit from 19.6 up" description="Commit in all versions from 19.6" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe" />
-      <option name="PARAMETERS" value="/command:commit /path:&quot;Amos19.6/amos_client*Amos19.6/amos_shared*Amos19.6/amos_server*Amos19.6/amos_client*Amos19.6/amos_test_junit*trunk/amos_shared*trunk/amos_server*trunk/amos_client*trunk/amos_test_junit*&quot;" />
+      <option name="PARAMETERS" value="/command:commit /path:&quot;Amos19.6/amos_client*Amos19.6/amos_shared*Amos19.6/amos_server*Amos19.6/amos_test_junit*trunk/amos_shared*trunk/amos_server*trunk/amos_client*trunk/amos_test_junit*&quot;" />
       <option name="WORKING_DIRECTORY" value="E:/workspaceIdea" />
     </exec>
   </tool>
