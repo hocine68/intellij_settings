@@ -15,5 +15,6 @@
     <mask>*.properties</mask>
     <mask>*AIPC*.dtd</mask>
     <mask>*.java</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
