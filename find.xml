@@ -3,7 +3,6 @@
     <option name="customScope" value="225'445 Extend the activation action" />
     <option name="defaultScopeName" value="225'445 Extend the activation action" />
     <option name="SEARCH_SCOPE" value="225'445 Extend the activation action" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
