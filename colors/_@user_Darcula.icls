@@ -3,7 +3,7 @@
     <property name="created">2018-05-02T14:59:29</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2019-05-06T13:34:27</property>
+    <property name="modified">2019-09-10T13:46:31</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow JAVA">true</property>
   </metaInfo>
@@ -36,6 +36,11 @@
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="7ba0b5" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
