@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="207'207 Implement Publication Location Report within Report Designer" />
+    <option name="defaultScopeName" value="207'207 Implement Publication Location Report within Report Designer" />
+    <option name="SEARCH_SCOPE" value="207'207 Implement Publication Location Report within Report Designer" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
