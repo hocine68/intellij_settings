@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="SUP 218577 - Supplemental pdfs in OEM Documents Management - New PDF Importer for Suppleme" />
     <option name="defaultScopeName" value="SUP 218577 - Supplemental pdfs in OEM Documents Management - New PDF Importer for Suppleme" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="SUP 218577 - Supplemental pdfs in OEM Documents Management - New PDF Importer for Suppleme" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
