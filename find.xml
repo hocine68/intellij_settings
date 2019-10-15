@@ -3,7 +3,6 @@
     <option name="customScope" value="BoeingToolBox Import AMM" />
     <option name="defaultScopeName" value="BoeingToolBox Import AMM" />
     <option name="SEARCH_SCOPE" value="BoeingToolBox Import AMM" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
