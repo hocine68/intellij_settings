@@ -7,6 +7,7 @@
   </component>
   <component name="SwissAsStorage">
     <option name="amosProject" value="true" />
+    <option name="fixMissingThis" value="false" />
     <option name="fourLetterCode" value="HOCI" />
     <option name="newTranslation" value="true" />
     <option name="shareProperties">
