@@ -274,6 +274,9 @@
             </list>
           </option>
           <option name="id" value="1509955788072" />
+          <option name="maxLengthToGrep" value="30" />
+          <option name="maxLengthToMatch" value="30" />
+          <option name="maxProcessingTime" value="100" />
           <option name="name" value="Amos" />
         </Profile>
       </list>
