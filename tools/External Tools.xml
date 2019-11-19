@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="xml spy" description="altova xml spy" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
-    <exec>
-      <option name="COMMAND" value="C:\Program Files\Altova\XMLSpy2016\XMLSpy.exe" />
-      <option name="PARAMETERS" value="$FileDir$\$FileName$" />
-      <option name="WORKING_DIRECTORY" value="C:/Program Files/Altova/XMLSpy2016" />
-    </exec>
-  </tool>
-</toolSet>
